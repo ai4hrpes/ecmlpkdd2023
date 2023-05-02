@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-permalink: /ai4hrpes-ecmlpkdd/organizers/
+permalink: /organizers/
 ---
 # Organizers
 ---

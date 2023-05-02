@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /ai4hrpes-ecmlpkdd/archive/
+permalink: /archive/
 ---
 # Archive
 ---

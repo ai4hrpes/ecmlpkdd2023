@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for papers
-permalink: /ai4hrpes-ecmlpkdd/cfp/
+permalink: /cfp/
 ---
 # Call for papers
 ---
@@ -62,6 +62,6 @@ Submit via Microsoft CMT (track: “AI4HR&PES: International workshop on AI for 
 
 ## Further information and Contact 
 * __Organizers__: Bo Kang, Tijl De Bie, Michèle Sebag, Christine Largeron
-* __Website URL__: <https://ai4hrpes.github.io/ai4hrpes-ecmlpkdd/>
+* __Website URL__: <https://ai4hrpes.github.io/ecmlpkdd2023/>
 * __Submission URL__: <https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023>
 * __E-mail__: <mailto:ai4hrpes.ecmlpkdd@gmail.com>
