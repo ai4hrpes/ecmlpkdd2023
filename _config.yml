@@ -11,7 +11,7 @@ title:            "AI4HR &\nPES"
 tagline:          ''
 description:      'International workshop on AI for Human Resources and Public Employment Services'
 url:              https://ai4hrpes.github.io/ecmlpkdd2023/
-baseurl:          ''
+baseurl:          https://ai4hrpes.github.io/ecmlpkdd2023/
 destination:      _site
 
 author:

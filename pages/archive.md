@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /ecmlpkdd2023/archive/
+permalink: /archive/
 ---
 # Archive
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-permalink: /ecmlpkdd2023/organizers/
+permalink: /organizers/
 ---
 # Organizers
 ---
