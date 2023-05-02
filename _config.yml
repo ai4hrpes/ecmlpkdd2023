@@ -10,7 +10,7 @@ permalink:        pretty
 title:            "AI4HR &\nPES"
 tagline:          ''
 description:      'International workshop on AI for Human Resources and Public Employment Services'
-url:              https://ai4hrpes.github.io/
+url:              https://ai4hrpes.github.io/ecmlpkdd2023/
 baseurl:          ''
 destination:      _site
 
@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/ai4hrpes-ecmlpkdd/website
+  repo:           https://github.com/ai4hrpes/ecmlpkdd2023
 
 plugins:
   - jekyll-paginate
