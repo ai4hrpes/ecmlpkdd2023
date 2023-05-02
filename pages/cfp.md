@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for papers
-permalink: /cfp/
+permalink: /ecmlpkdd2023/cfp/
 ---
 # Call for papers
 ---
