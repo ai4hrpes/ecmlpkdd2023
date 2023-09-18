@@ -6,7 +6,7 @@ permalink: /program/
 # Program
 ---
 
-**14:30 - 15:30** Keynote (TBA)
+**15:15 - 15:30** Opening
 
 **15:30 - 15:45** Contributed talk 1: [__Toward Job Recommendation for All__](/ecmlpkdd2023/papers/ai4hrpes2023_paper_144.pdf)
 
